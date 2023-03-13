@@ -1,4 +1,4 @@
-<h1 align="center> # Maratona-Kenzie </h1>
+# Maratona-Kenzie
 
 Projeto desenvolvido para o evento Maratona Kenzie dia 11/03/2023.
 
