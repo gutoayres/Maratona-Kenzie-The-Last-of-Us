@@ -159,7 +159,6 @@ section > ul > li {
   margin-top: 80px;
   padding: 5px;
   text-align: justify;
-  
 }
 
 .posts > p {
@@ -169,7 +168,6 @@ section > ul > li {
   font-size: 22px;
   font-weight: 400;
   line-height: 26px;
-  
 }
 
 .episodes-list {
@@ -177,7 +175,6 @@ section > ul > li {
   width: 671px;
   margin: 0 auto;
   overflow: auto;
-  
 }
 
 .card {
@@ -187,7 +184,6 @@ section > ul > li {
   align-items: center;
   margin: 10px auto;
   background-color: var(--color-grey-3);
-  
 }
 
 .episodes-list::-webkit-scrollbar {
